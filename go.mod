@@ -8,7 +8,6 @@ require (
 	github.com/google/gopacket v1.1.18
 	github.com/prometheus/client_golang v1.18.0
 	github.com/refraction-networking/utls v1.6.0
-	github.com/wi1dcard/fingerproxy v1.2.3
 	golang.org/x/net v0.19.0
 	golang.org/x/term v0.15.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -21,6 +20,7 @@ require (
 	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/go-logr/logr v1.3.0 // indirect
 	github.com/klauspost/compress v1.17.4 // indirect
+	github.com/kr/text v0.2.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 	github.com/prometheus/client_model v0.5.0 // indirect
 	github.com/prometheus/common v0.45.0 // indirect
