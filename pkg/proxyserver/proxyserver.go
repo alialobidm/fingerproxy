@@ -19,9 +19,9 @@ import (
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"
-	"github.com/wi1dcard/fingerproxy/pkg/hack"
-	"github.com/wi1dcard/fingerproxy/pkg/http2"
-	"github.com/wi1dcard/fingerproxy/pkg/metadata"
+	"github.com/subscan-explorer/fingerproxy/pkg/hack"
+	"github.com/subscan-explorer/fingerproxy/pkg/http2"
+	"github.com/subscan-explorer/fingerproxy/pkg/metadata"
 )
 
 const defaultMetricsPrefix = "fingerproxy"

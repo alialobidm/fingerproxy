@@ -4,11 +4,11 @@ import (
 	"fmt"
 
 	"github.com/dreadl0ck/tlsx"
-	"github.com/wi1dcard/fingerproxy"
-	"github.com/wi1dcard/fingerproxy/pkg/fingerprint"
-	"github.com/wi1dcard/fingerproxy/pkg/ja3"
-	"github.com/wi1dcard/fingerproxy/pkg/metadata"
-	"github.com/wi1dcard/fingerproxy/pkg/reverseproxy"
+	"github.com/subscan-explorer/fingerproxy"
+	"github.com/subscan-explorer/fingerproxy/pkg/fingerprint"
+	"github.com/subscan-explorer/fingerproxy/pkg/ja3"
+	"github.com/subscan-explorer/fingerproxy/pkg/metadata"
+	"github.com/subscan-explorer/fingerproxy/pkg/reverseproxy"
 )
 
 func main() {

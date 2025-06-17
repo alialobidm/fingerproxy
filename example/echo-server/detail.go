@@ -6,7 +6,7 @@ import (
 
 	"github.com/dreadl0ck/tlsx"
 	"github.com/refraction-networking/utls/dicttls"
-	"github.com/wi1dcard/fingerproxy/pkg/ja4"
+	"github.com/subscan-explorer/fingerproxy/pkg/ja4"
 )
 
 type ja3Detail tlsx.ClientHelloBasic
